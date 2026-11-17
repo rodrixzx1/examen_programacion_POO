@@ -1,0 +1,7 @@
+# Examen Parcial 3 - Programación II (POO en Python)
+
+**Alumno:** Jesus Rodrigo Osorio Corral  
+**Institución:** Universidad Iberoamericana León  
+
+Descripción del proyecto:
+Proyecto evaluatorio que demuestra la comprensión y aplicación de los fundamentos de Programación Orientada a Objetos (POO) en Python, abarcando clases, propiedades, métodos, constructores (`__init__`), uso de `self`, creación de objetos y herencia simple[cite: 2].
